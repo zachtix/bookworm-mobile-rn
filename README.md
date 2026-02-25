@@ -24,4 +24,4 @@ npm install
 npx expo start
 ```
 
-Make sure backend API [(bookworm-api-rn)]([https://expo.dev](https://github.com/zachtix/bookworm-api-rn)) is running.
+Make sure backend API [(bookworm-api-rn)](https://github.com/zachtix/bookworm-api-rn) is running.
